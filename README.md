@@ -18,6 +18,7 @@
 
 ## Acciones/Cambios Económicos
 > Aqui los cambios para desatar las manos de los empresarios y emprendedores que de forma decentralizada podran resolver los problemas que un gobierno central nunca podría.
+
  - Garantía de la propiedad privada.
  - Plan de incentivo a la inversión por parte de Venezolanos (con llamado especial a los expatriados).
  - Plan de incentivos a la inversión extranjera.
