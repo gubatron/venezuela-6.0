@@ -9,7 +9,9 @@
 
  - Revocatorio para Nicolas Maduro.
  - Liberación de presos politicos.
- - Despolitización de instituciones.
+ - Despolitización de instituciones (con precedencia en la fuerza armada).
+ - Sacar a cuanto Cubano esté en algun cargo político.
+ - Eliminación de la Ley Resorte. (que vuelva el 4to poder, para poner los otros 3 a derecho)
    - Despolitizacion de los puertos. No mas mafias para importar.
  - Revisión a la constitución nacional
    - Reducir el mandato presidencial a 4 años.
