@@ -21,6 +21,7 @@
  - Eliminación de controles de precios.
  - Eliminación de controles de importación.
  - Eliminación de controles cambiarios.
+ - Plan de repatriación de investigadores, científicos y alta gerencia petrolera.
 
 ## Acciones/Cambios Sociales
 > Que planes sociales deben mantenerse, re-enforzarse, eliminarse
@@ -32,4 +33,6 @@
  - Abrir investigaciones y colaborar con organismos internacionales anti-droga.
  - Abrir investigaciones de corrupción. *(De donde salen los billones de la familia Chavez? Exprópiense!)*
  - Reforma policial.
+ - Revisión del sistema penal.
+ - Plan integral de seguridad y desarme o mejor regulacion de armamento.
  
