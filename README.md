@@ -7,6 +7,7 @@
 ## Acciones/Cambios Políticos
 > Aqui la lista de cambios a hacer en la asamblea en Enero, que es lo mas importante que debe hacerse?
 
+ - Revocatorio para Nicolas Maduro.
  - Liberación de presos politicos.
  - Despolitización de instituciones.
    - Despolitizacion de los puertos. No mas mafias para importar.
@@ -29,6 +30,7 @@
  - Revisión de presupuestos para la educacion a todos los niveles.
  
 ## Acciones/Cambios Judiciales
+ - Investigación sobre nacionalidad de Nicolas Maduro (destituirlo sin necesidad de revocatorio)
  - Expeditar investigaciones y casos relacionados a la impunidad que aun disfrutan los asesinos de nuestros protestantes.
  - Abrir investigaciones y colaborar con organismos internacionales anti-droga.
  - Abrir investigaciones de corrupción. *(De donde salen los billones de la familia Chavez? Exprópiense!)*
