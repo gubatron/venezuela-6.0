@@ -4,7 +4,7 @@
 
 >A continuación una lista de cambios necesarios, en ningun orden específico, ayudenme a reorganizarlos en orden, a ponerlos en sub bullets. -@gubatron
 
-## Cambios Políticos
+## Cambios/Acciones Políticos
 > Aqui la lista de cambios a hacer en la asamblea en Enero, que es lo mas importante que debe hacerse?
 
  - Liberación de presos politicos.
@@ -13,15 +13,22 @@
  - Revisión a la constitución nacional
    - Reducir el mandato presidencial a 4 años.
    - Solo re-elegible 2 veces.
+ - Legalización del cannabis.
 
-## Cambios Económicos
+## Cambios/Acciones Económicos
 > Aqui los cambios para desatar las manos de los empresarios y emprendedores que de forma decentralizada podran resolver los problemas que un gobierno central nunca podría.
 
  - Eliminación de controles de precios.
  - Eliminación de controles de importación.
  - Eliminación de controles cambiarios.
 
-## Cambios Sociales
+## Cambios/Acciones Sociales
 > Que planes sociales deben mantenerse, re-enforzarse, eliminarse
 
  - Revisión de presupuestos para la educacion a todos los niveles.
+ 
+## Cambios/Acciones Judiciales
+ - Expeditar investigaciones y casos relacionados a la impunidad que aun disfrutan los asesinos de nuestros protestantes.
+ - Abrir investigaciones y colaborar con organismos internacionales anti-droga.
+ - Abrir investigaciones de corrupción. *(De donde salen los billones de la familia Chavez? Exprópiense!)*
+ 
