@@ -31,4 +31,5 @@
  - Expeditar investigaciones y casos relacionados a la impunidad que aun disfrutan los asesinos de nuestros protestantes.
  - Abrir investigaciones y colaborar con organismos internacionales anti-droga.
  - Abrir investigaciones de corrupción. *(De donde salen los billones de la familia Chavez? Exprópiense!)*
+ - Reforma policial.
  
