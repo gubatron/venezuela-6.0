@@ -1,6 +1,6 @@
 # Venezuela 6.0
 
->Empezemos con un simple "checklist", y luego cada item sera un enlace a sub-checklists idealmente desarrollados por personas con mayor conocimientos e ideas de como llevar a cabo estas metas. -@gubatron
+>Empezemos con un simple "checklist" de acciones/cambios legislativos, y luego cada item sera un enlace a sub-checklists idealmente desarrollados por personas con mayor conocimientos e ideas de como llevar a cabo estas metas. -@gubatron
 
 >A continuación una lista de cambios necesarios, en ningun orden específico, ayudenme a reorganizarlos en orden, a ponerlos en sub bullets. -@gubatron
 
@@ -18,7 +18,11 @@
 
 ## Acciones/Cambios Económicos
 > Aqui los cambios para desatar las manos de los empresarios y emprendedores que de forma decentralizada podran resolver los problemas que un gobierno central nunca podría.
-
+ - Garantía de la propiedad privada.
+ - Plan de incentivo a la inversión por parte de Venezolanos (con llamado especial a los expatriados).
+ - Plan de incentivos a la inversión extranjera.
+ - Cambiar a la gerencia del BCV, que reporten las cifras reales ya.
+ - Cambio de gerencia en PDVSA, hacer un llamado al invaluable talento que perdimos.
  - Eliminación de controles de precios.
  - Eliminación de controles de importación.
  - Eliminación de controles cambiarios.
