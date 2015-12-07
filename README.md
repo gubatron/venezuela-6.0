@@ -16,6 +16,9 @@
  - Revisión a la constitución nacional
    - Reducir el mandato presidencial a 4 años.
    - Solo re-elegible 2 veces.
+   - Renombrar el país a "República de Venezuela".
+   - Quitar la 8va. estrella de la bandera.
+   - Poner el caballo del escudo hacia la derecha.
  - Legalización del cannabis.
 
 ## Acciones/Cambios Económicos
