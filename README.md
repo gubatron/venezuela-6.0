@@ -38,3 +38,18 @@
  - Revisión del sistema penal.
  - Plan integral de seguridad y desarme o mejor regulacion de armamento.
  
+## Acciones/Cambios Cívicos
+> Los cambios que debemos hacer todos los Venezolanos.
+
+ - No colarse en las colas.
+ - Ceder el paso a peatones.
+ - Usar pasos peatonales. No cruzar por el medio de las calles y avenidas.
+ - Ceder el paso cuando ponen la luz de cruce en frente de nosotros.
+ - Respetar los "Pare".
+ - Respetar los semáforos.
+ - No tirar basura en la calle.
+ - Reciclar.
+ - No fumar en lugares cerrados.
+ - Declarar y pagar impuestos.
+ - No tomar y conducir.
+ 
