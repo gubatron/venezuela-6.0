@@ -29,6 +29,7 @@
  - Plan de incentivos a la inversión extranjera.
  - Cambiar a la gerencia del BCV, que reporten las cifras reales ya.
  - Cambio de gerencia en PDVSA, hacer un llamado al invaluable talento que perdimos.
+ - Eliminación de subsidios petroleros a paises del caribe. Primero ayudemos a los Venezolanos.
  - Eliminación de controles de precios.
  - Eliminación de controles de importación.
  - Eliminación de controles cambiarios.
